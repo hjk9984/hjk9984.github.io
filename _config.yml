@@ -13,7 +13,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: Antae
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
@@ -23,7 +23,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  hjk9984
     linkedIn: in/thelehhman
     rss: rss
  
@@ -34,7 +34,7 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
